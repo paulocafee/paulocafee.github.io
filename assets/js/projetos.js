@@ -209,8 +209,8 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     const filtered = repos.filter((repo) => {
       const name = (repo.name || '').toLowerCase();
-      if (name === 'paulowh.github.io') return false;
-      if (name === 'paulowh') return false;
+      if (name === 'paulocafee.github.io') return false;
+      if (name === 'paulocafee') return false;
       if (name.startsWith('ti')) return false;
       return true;
     });
