@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T02:26:43.333Z",
+  "generated_at": "2026-10-19T02:40:48.001Z",
   "repos": [
     {
       "name": "agenda-pokemon",
@@ -64,21 +64,6 @@
       "updated_at": "2026-10-15T00:10:57Z"
     },
     {
-      "name": "fluxum",
-      "description": null,
-      "html_url": "https://github.com/paulocafee/fluxum",
-      "languages_url": "https://api.github.com/repos/paulocafee/fluxum/languages",
-      "language": "PHP",
-      "stargazers_count": 0,
-      "languages": [
-        "PHP",
-        "Twig",
-        "CSS",
-        "JavaScript"
-      ],
-      "updated_at": "2026-10-18T01:59:12Z"
-    },
-    {
       "name": "gerenciador-de-aulas",
       "description": "projeto integrador da UC 12",
       "html_url": "https://github.com/paulocafee/gerenciador-de-aulas",
@@ -132,7 +117,7 @@
         "JavaScript",
         "HTML"
       ],
-      "updated_at": "2026-10-17T02:26:34Z"
+      "updated_at": "2026-10-18T02:26:50Z"
     },
     {
       "name": "petshop-react",
